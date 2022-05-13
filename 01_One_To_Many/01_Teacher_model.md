@@ -1,6 +1,6 @@
 We will work on this courses api.
 
-Fork and clone [this](https://github.com/JoinCODED/Demo-Express-M4-Sql-Courses) into your development folder.
+Fork and clone [this](https://github.com/JoinCODED/Demo-Express-M5-Sql-Courses) into your development folder.
 
 1. Let's add some fields to our `Teacher` model that represents the `Courses` that's taught by this `Teacher`.
 
